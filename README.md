@@ -11,3 +11,5 @@
 ## Content
 - [Hello World](hello%20world/)
 - [Build a REST API using Spring Framework](restapi/)
+- [Consuming a REST API using Spring Framework](consuming-restapi/)
+
