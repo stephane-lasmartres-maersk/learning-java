@@ -1,4 +1,4 @@
-# Consuming Event Hub Queue
+# Consuming Azure Service Bus Queue
 
 ## Configuration
 Add proper Azure Service Bus connection string into the file `src/main/java/com/example/App.java`.
