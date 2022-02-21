@@ -13,4 +13,5 @@
 - [Build a REST API using Spring Framework](restapi/)
 - [Consuming a REST API using Spring Framework](consuming-restapi/)
 - [Consuming an Azure Service Bus Queue](consuming-service-bus-queue/)
+- [Dependency injection using Spring Framework](dependency-injection/)
 
