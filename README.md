@@ -12,4 +12,5 @@
 - [Hello World](hello%20world/)
 - [Build a REST API using Spring Framework](restapi/)
 - [Consuming a REST API using Spring Framework](consuming-restapi/)
+- [Consuming an Azure Service Bus Queue](consuming-service-bus-queue/)
 
