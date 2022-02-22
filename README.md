@@ -14,4 +14,5 @@
 - [Consuming a REST API using Spring Framework](consuming-restapi/)
 - [Consuming an Azure Service Bus Queue](consuming-service-bus-queue/)
 - [Dependency injection using Spring Framework](dependency-injection/)
+- [Logging using log4j2](logging-using-log4j2/)
 
